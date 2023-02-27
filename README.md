@@ -39,4 +39,4 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 MIT License
 
-Copyright (c) 2023 Elizabeth Luckie
+Copyright (c) 2023 Luckie
